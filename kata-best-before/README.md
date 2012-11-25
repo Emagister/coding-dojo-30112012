@@ -46,3 +46,8 @@ have two digits each (zero padding), for example "2011-07-15". If there is no le
 (subject to the above constraints) then output a single line with the original string followed
 by the words "is illegal".
 
+#### Examples ####
+
+  * 02/04/67 --> 2067-02-04
+  * 31/9/73  --> 31/9/73 is illegal
+
