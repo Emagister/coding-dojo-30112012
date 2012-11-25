@@ -2,6 +2,10 @@
 
 ## Kata Best Before ##
 
+This kata is one of the technical tests of the Spotify Tech Team. If wanna check it
+
+(http://www.spotify.com/es/jobs/tech/best-before/)
+
 **Difficulty level** -- normal
 
 ### Problem description ###
@@ -41,3 +45,4 @@ output should be formatted as year-month-day, where year has four digits, and mo
 have two digits each (zero padding), for example "2011-07-15". If there is no legal date
 (subject to the above constraints) then output a single line with the original string followed
 by the words "is illegal".
+
